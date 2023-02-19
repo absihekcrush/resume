@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Abishek</title>
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="abishek.png" alt="abishek profile picture" height="200"></td>
+            <td>            <h1>ABISHEK K</h1>
+                <p><em>Freelancer at <strong>Editing and FullStack Webdevlopment</strong></em></p>
+                <p>I am abishek from tamilnadu, studing <strong>karpagam college of engirnnering</strong>1 st year.
+                freelanching at <strong>Editing and fullstack Webdevlopment.</strong></p></td>
+        </tr>
+    </table>
+    <hr size="3" noshade>
+    <h2>Freelancer</h2>
+    <ul>
+        <li><a href="">Webdevlopment</a></li>
+        <li>Video Editing</li>
+        <li>Photoshop</li>
+        <li>Designer</li>
+    </ul>
+    <hr>
+    <table cellspacing="10">
+        <h2>EDUCATION</h2>
+        <thead>
+            <tr>
+                <th>years</th>
+                <th>studies</th>
+                <th>my expriences</th>
+            </tr>
+        </thead>
+        <TBody>
+        <tr>
+            <td>2022-2026</td>
+            <td>BE-computer science and technology</td>
+            <td>still studing</td>
+        </tr>
+        <tr>
+            <td>2021-2022</td>
+            <td>12 standard</td>
+            <td>60%</td>
+        </tr>
+        <tr>
+            <td>2019-2020</td>
+            <td>10 standard</td>
+            <td>57%</td>
+        </tr>
+        </TBOdy>
 
+    </table>
+    <hr>
+    <table cellspacing="10">
+        <h2>SKILLS</h2>
+        <tr>
+            <td>Editing</td>
+            <td>🏆🏆🏆🏆🏆</td>
+        </tr>
+        <tr>
+            <td>Webdevlopment</td>
+            <td>🏆🏆🏆🏆🏆</td>
+        </tr>
+        <tr>
+            <td>photograph</td>
+            <td>🏆🏆🏆🏆</td>
+        </tr>
+    </table>
+    <hr>
+    <a href="contact-me.html">My contact</a>
+
+</body>
+</html>
